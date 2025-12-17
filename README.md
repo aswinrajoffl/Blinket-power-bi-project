@@ -1,5 +1,3 @@
-
-
 ## 📊 Project Overview
 
 This project is a **Power BI dashboard** built to analyze and visualize **Blinkit (instant grocery delivery) sales performance**. The dashboard provides insights into sales trends, outlet performance, product categories, and customer demand to support data-driven decision-making.
