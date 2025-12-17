@@ -99,21 +99,7 @@ Blinkit-PowerBI-Project/
 * Practical use of DAX for business metrics
 * Data storytelling using visuals
 
----
 
-## 🤝 Contributing
-
-Contributions, suggestions, and improvements are welcome.
-Feel free to fork this repository and submit a pull request.
-
----
-
-## 📬 Contact
-
-If you have any feedback or questions, feel free to connect:
-
-* **GitHub:** *Your GitHub Profile Link*
-* **LinkedIn:** *Your LinkedIn Profile Link*
 
 ---
 
