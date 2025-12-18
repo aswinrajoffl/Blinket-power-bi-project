@@ -62,15 +62,8 @@ The project demonstrates skills in **data cleaning, data modeling, DAX, and inte
 ---
 
 ## 🖼 Dashboard Preview
+<img width="838" height="476" alt="image" src="https://github.com/user-attachments/assets/28dec1c4-5390-4b03-8e89-e338fc8617b7" />
 
-*Add screenshots of your Power BI dashboard here*
-
-```text
-Example:
-/dashboard-screenshots/overview.png
-```
-
----
 
 ## 🚀 How to Use
 
